@@ -39,7 +39,7 @@
 
 ## Top Projects
 
-- 🍽 [Dotfiles](https://github.com/fuis18/dotfiles) - Archlinux + Hyprland + Cachyos
+- :computer: [Dotfiles](https://github.com/fuis18/dotfiles) - Archlinux + Hyprland + Cachyos
 - 🍽 [APP POS](https://github.com/fuis18/app-pos) - An App for a restaurant type POS
 
 ## Projects
