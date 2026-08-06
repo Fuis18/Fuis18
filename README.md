@@ -9,13 +9,9 @@
       <b>
         Welcome
         <br />
-        I'm Fuis18, a Software Engineer.
-      </b>
-      <br />
-      <img
-        src="https://readme-typing-svg.demolab.com?font=Iosevka&size=16&pause=1000&color=9D7CD8&center=true&vCenter=true&width=435&lines=I+code+efficient+and+elegant+programs"
-        alt="Typing SVG"
-      />
+        I'm Fuis18,
+        An enthusiastic software engineer.
+      </b>:
     </samp>
   </p>
   <p align="right">
@@ -45,7 +41,7 @@
 - 🍽 [Dotfiles](https://github.com/fuis18/dotfiles) - Archlinux + Hyprland + Cachyos
 - 🍽 [APP POS](https://github.com/fuis18/app-pos) - An App for a restaurant type POS
 
-## Current Projects
+## Projects
 
 - 🎵 [Spotify Astro](https://github.com/fuis18/spotify-astro) - Clon de Spotify
 - 🧁 [Brownies Store](https://github.com/fuis18/healthy-life) - Healthy Life
