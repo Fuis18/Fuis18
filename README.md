@@ -40,9 +40,13 @@
   </details>
 </div>
 
+## Top Projects
+
+- 🍽 [Dotfiles](https://github.com/fuis18/dotfiles) - Archlinux + Hyprland + Cachyos
+- 🍽 [APP POS](https://github.com/fuis18/app-pos) - An App for a restaurant type POS
+
 ## Current Projects
 
-- 🍽 [APP POS](https://github.com/fuis18/app-pos) - An App for a restaurant type POS
 - 🎵 [Spotify Astro](https://github.com/fuis18/spotify-astro) - Clon de Spotify
 - 🧁 [Brownies Store](https://github.com/fuis18/healthy-life) - Healthy Life
 - 👋 [Portafolio](https://fuis18.github.io/) - My personal web site
