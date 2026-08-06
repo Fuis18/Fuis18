@@ -10,8 +10,9 @@
         Welcome
         <br />
         I'm Fuis18,
+        <br />
         An enthusiastic software engineer.
-      </b>:
+      </b>
     </samp>
   </p>
   <p align="right">
