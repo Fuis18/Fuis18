@@ -51,4 +51,4 @@
 
 ## Philosophy
 
-> I build applications focused on user experience and performance, prioritizing maintainable, secure, and scalable code. I adapt modern technologies to the context to create efficient, robust, and scalable solutions.
+> I build applications focused on user experience and performance, prioritizing maintainable, secure, and scalable code. I adapt modern technologies to the context to create the better solution.
